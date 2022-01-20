@@ -1,0 +1,11 @@
+
+Token url :
+https://kovan.etherscan.io/token/0x62f92d8b5a54dDB6317D38B3827c76B239E9A516?a=0x65eb9f8e195e4f499c07587cc46bbe25ba17bcaf
+
+Token owner wallet
+private key: b1a8b863eed8f771141f3ee53bc47e24d1b199d0eb25aa7a8fa5912369fe30bf
+address    : 0x65EB9f8e195e4F499c07587cc46bBE25Ba17bcaF
+
+Token Fee Wallet
+Private Key : 3f69d0cc20310070ff97309620b68ab7c14dc4759bdcaa496dcaa359a43489f5
+address     : 0x38F663840F8346fF6dF3177628cF25b66efc163a
